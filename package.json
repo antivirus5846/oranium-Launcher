@@ -1,7 +1,7 @@
 {
     "name": "Oranium",
     "preductname": "Oranium Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Oranium modded server launcher",
     "main": "src/app.js",
     "author": "Antivirus_5846, Riptiaz/Boulldogo/Vexato/Luuxis",
